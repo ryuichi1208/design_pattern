@@ -12,4 +12,8 @@ public abstract class CutPrint{
         cut( hanzai );
         print( hanzai );
     }
+    
+    int add(int a, int b) {
+    	return 0;
+    }
 }
