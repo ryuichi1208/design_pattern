@@ -1,5 +1,13 @@
 # design_pattern
-デザインパターン実装
 
-Iterator パターン
-Singleton パターン
+## Pattern
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
